@@ -1,0 +1,86 @@
+
+TESTS FOR SimpleDateTester.java:
+true
+true
+true
+
+TESTS FOR Computer.java:
+Razer, NA, 2GB Memory, 2.0TB Solid State Drive, Price: $100.00 
+Razer, NA, 2GB Memory, 2.0TB Hard Drive, Price: $100.00 
+Razer, NA, 2GB Memory, 512GB Solid State Drive, Price: $100.00 
+Razer, NA, 2GB Memory, 512GB Hard Drive, Price: $100.00 
+
+TESTS FOR DateAndPlaceOfBirth.java:
+Computer List, Owner: Hieu Pham 123456789,
+ Date and place of birth: 1997-02-19, Hanoi, Vietnam
+ Course Street
+Downtown
+Binghamton, NY 13902
+Computers: [Razer, NA, 2GB Memory, 2.0TB Solid State Drive, Price: $100.00 , Razer, NA, 2GB Memory, 2.0TB Hard Drive, Price: $100.00 , Razer, NA, 2GB Memory, 512GB Solid State Drive, Price: $100.00 , Razer, NA, 2GB Memory, 512GB Hard Drive, Price: $100.00 ]
+Computer List, Owner: Hieu Pham 123456789,
+ Date and place of birth: 1997-02-19, Hanoi, Vietnam
+ Course Street
+Downtown
+Binghamton, NY 13902
+Computers: [Razer, NA, 2GB Memory, 512GB Solid State Drive, Price: $100.00 , Razer, NA, 2GB Memory, 512GB Hard Drive, Price: $100.00 ]
+
+TESTS FOR Person.java:
+Hieu Pham 123456789,
+ Date and place of birth: 1997-02-19, Hanoi, Vietnam
+ Course Street
+Downtown
+Binghamton, NY 13902
+
+TESTS FOR DateAndPlaceOfBirth.java:
+Date and place of birth: 1997-02-19, Binghamton, NY, USA
+Date and place of birth: 1997-02-19, Binghamton, NY, USA
+Date and place of birth: 2007-02-19, Binghamton, NY, USA
+Date and place of birth: 1997-02-01, Hanoi, Vietnam
+Date and place of birth: 2007-02-02, Hanoi, Vietnam
+true
+true
+false
+false
+true
+false
+false
+false
+false
+false
+true
+false
+false
+false
+false
+false
+false
+false
+false
+false
+false
+false
+true
+false
+false
+true
+false
+true
+true
+false
+false
+true
+false
+true
+true
+false
+true
+false
+false
+true
+
+TESTS FOR StreetUSAddress.java:
+Vestal
+Binghamton, NY 13902
+Course Street
+Downtown
+Binghamton, NY 13902
